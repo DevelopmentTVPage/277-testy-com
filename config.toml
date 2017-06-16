@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "Testy"
+baseURL = "https:\/\/testy.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "845"
+subfolder = ""
