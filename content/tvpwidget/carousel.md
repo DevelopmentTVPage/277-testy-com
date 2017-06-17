@@ -14,7 +14,6 @@
     "layout": "bootstrap",
     "tvp_profiles_manual": true,
     "adxSpots": [
-        "4",
         "3"
     ]
 }
