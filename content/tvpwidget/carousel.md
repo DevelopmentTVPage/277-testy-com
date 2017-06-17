@@ -12,10 +12,5 @@
     "name": "carousel",
     "channelId": "3816983",
     "layout": "bootstrap",
-    "adxSpots": [
-        "5",
-        "4",
-        "3"
-    ],
     "tvp_profiles_manual": true
 }
