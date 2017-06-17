@@ -13,7 +13,5 @@
     "channelId": "3816983",
     "layout": "bootstrap",
     "tvp_profiles_manual": true,
-    "adxSpots": [
-        "3"
-    ]
+    "adxSpots": []
 }
