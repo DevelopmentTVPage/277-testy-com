@@ -15,7 +15,6 @@
     "tvp_profiles_manual": true,
     "adxSpots": [
         "5",
-        "4",
         "3"
     ]
 }
